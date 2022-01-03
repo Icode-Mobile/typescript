@@ -5,5 +5,11 @@
   "license": "MIT",
   "dependencies": {
     "typescript": "^4.5.4"
+  },
+  "devDependencies": {
+    "ts-node-dev": "^1.1.8"
+  },
+  "scripts": {
+    "dev": "ts-node-dev Aula01.ts"
   }
 }
